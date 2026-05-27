@@ -1,3 +1,5 @@
+One of the best and easiest beginner-friendly projects for learning Pandas is Netflix data analysis using Python.
+
 # what this project teaches
 
  How to load a CSV file with `pd.read_csv()`
