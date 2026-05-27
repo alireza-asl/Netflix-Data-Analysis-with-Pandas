@@ -117,7 +117,7 @@ plt.show()
 
 # Chart 3: Top 10 countries bar chart.
 plt.figure(figsize=(10, 5))
-country_counts.head(10).plot(kind="bar", color="#d62728")
+country_counts.head(10).plot(kind="bar", color="#27d661")
 plt.title("Top 10 Countries by Number of Titles")
 plt.xlabel("Country")
 plt.ylabel("Count")
